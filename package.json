@@ -1,0 +1,14 @@
+{
+  "name": "@dotenvx/dotenvx-windows-x86_64",
+  "version": "0.1.0",
+  "description": "dotenvx-windows-x86_64 executable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenvx/dotenvx-windows-x86_64.git"
+  },
+  "author": "@motdotla",
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  }
+}
