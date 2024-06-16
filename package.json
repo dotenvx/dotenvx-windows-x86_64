@@ -6,6 +6,10 @@
     "type": "git",
     "url": "git+https://github.com/dotenvx/dotenvx-windows-x86_64.git"
   },
+  "files": [
+    "dotenvx.exe",
+    "README.md"
+  ],
   "author": "@motdotla",
   "license": "BSD-3-Clause",
   "publishConfig": {
