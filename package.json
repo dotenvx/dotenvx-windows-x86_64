@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-windows-x86_64",
-  "version": "1.14.2",
+  "version": "1.15.0",
   "description": "dotenvx-windows-x86_64 executable",
   "repository": {
     "type": "git",
